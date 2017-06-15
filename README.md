@@ -12,13 +12,19 @@
 $ npm install
 ```
 
-### Run for Development
+### Developing
 
 ```
 $ npm run dev
 ```
 
-### Run for Production
+### Building
+
+```
+$ npm run build
+```
+
+### Running
 
 ```
 $ npm start
